@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+      <title>Triratna Dharma Training Course for Mitras</title>
+        <link>https://www.buddhistaudiobooks.com/audio-library/view/14/listen-mitra-study-year-one.html</link>
+        <language>en-GB</language>
+        <itunes:subtitle>Dharma Training Course Year One (Foundation Year)</itunes:subtitle>
+        <itunes:author>Triratna Buddhist Community</itunes:author>
+        <itunes:summary>The Triratna Dharma Training Course for Mitras offers a comprehensive four-year course in Buddhism and meditation.</itunes:summary>
+
+        <item>
+            <title>Pt 1,Week 1. Dharma Study as Spiritual Practice</title>
+            <enclosure url="https://www.buddhistaudiobooks.com/audio-library/download/14/001%20Pt%201,Week%201.%20Dharma%20Study%20as%20Spiritual%20Practice.mp3" type="audio/mpeg" />
+            <pubDate>Sat, 11 April 2020 01:04:00 GMT</pubDate>
+          </item>
+
+    </channel>
+</rss>
